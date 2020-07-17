@@ -10,7 +10,7 @@
   "dependencies": {
     "@types/d3": "^5.7.2",
     "d3": "^5.9.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "normalize.css": "^8.0.1",
     "vue": "^2.6.6"
   },
